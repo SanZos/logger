@@ -1,0 +1,20 @@
+{
+  "name": "logger",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/logger.js",
+  "types": "dist/logger.d.ts",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "8.9.4",
+    "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
